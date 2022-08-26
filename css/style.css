@@ -1,0 +1,15 @@
+body{background-color:#aaa;}
+.header, .hero, .body, .bar, .footer{background-color:pink;
+    margin-bottom:10px;}
+.box{margin:10px 0;
+    min-height:80px;
+    background-color:skyblue;
+    font-size:30px;
+    border:7px solid green;}
+.red{background-color:red;}
+
+
+
+
+
+
